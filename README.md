@@ -1,5 +1,6 @@
 # Hello-World
 My world needs practice
+# Bio
 This is my first adventure into the IT world, my first dive...or maybe is it more like a plundge!
 I want to be able to come and look at this page next year and appreciate my progression and my achievements. 
 Is it too much hoping? 
